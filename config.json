@@ -1,0 +1,16 @@
+{
+    "autosave": true,
+	"background": false,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "147.135.37.31:443",
+            "user": "41qmaKnKAGFfvqtHMiJPzEKKbSLxpnvgPCnq6E7wrXRBKtEVohedc8z8wu3yBeTjYC8R4dDTUgbUMBX7zoda7khTKmncPQ8",
+            "rig-id": "D-",
+            "keepalive": true,
+	    "tls": true
+        }
+    ]
+}
