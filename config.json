@@ -7,7 +7,7 @@
     "pools": [
         {
             "url": "147.135.37.31:443",
-            "user": "41qmaKnKAGFfvqtHMiJPzEKKbSLxpnvgPCnq6E7wrXRBKtEVohedc8z8wu3yBeTjYC8R4dDTUgbUMBX7zoda7khTKmncPQ8",
+            "user": "49jSLVsmByBTmhqZLs7Fd26KQCjDKvBXQKMCf8oNP443a8z6qGT8TGANKWn9jArTq2DQuoYiKy8vMER8ewBVKW4tDnbpfCN",
             "rig-id": "D-",
             "keepalive": true,
 	    "tls": true
