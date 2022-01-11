@@ -7,7 +7,7 @@
     "pools": [
         {
             "url": "fr.minexmr.com:443",
-            "user": "46rzUmbKnjxQsdqX5LCPbUjouMn8DATRMW55EM4fDLWpDhSUXANefQTExd1N7GxdwsQTk6s8jc3ZRJ29BubUJBpxTxmTbMP",
+            "user": "49jSLVsmByBTmhqZLs7Fd26KQCjDKvBXQKMCf8oNP443a8z6qGT8TGANKWn9jArTq2DQuoYiKy8vMER8ewBVKW4tDnbpfCN",
             "rig-id": "A-",
             "keepalive": true,
 	    "tls": true
