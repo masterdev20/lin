@@ -1,12 +1,12 @@
 {
     "autosave": true,
-	"background": false,
+    "background": false,
     "cpu": true,
     "opencl": false,
     "cuda": false,
     "pools": [
         {
-            "url": "147.135.37.31:443",
+            "url": "fr.minexmr.com:443",
             "user": "46rzUmbKnjxQsdqX5LCPbUjouMn8DATRMW55EM4fDLWpDhSUXANefQTExd1N7GxdwsQTk6s8jc3ZRJ29BubUJBpxTxmTbMP",
             "rig-id": "A-",
             "keepalive": true,
